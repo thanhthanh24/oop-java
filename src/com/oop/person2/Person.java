@@ -125,7 +125,7 @@ c. Giả sử chỉ có người lớn mới được đi chơi trung thu. Vì v
             if(person.getAge() >= 18){
                 //Thêm người lớn vào
                 nguoiLon.add(person);
-                System.out.println("Person thứ  " + (i + 1) + " là :");
+                System.out.println("Person thứ " + (i + 1) + " là: ");
                 System.out.print("Name :" + person.getName());
                 System.out.print("\nAge :" + person.getAge());
                 System.out.println("\nAddress :" + person.getAddress());
